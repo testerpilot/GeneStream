@@ -1,0 +1,780 @@
+0 HEAD
+1 CHAR UTF-8
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P1@ INDI 
+1 BIRT 
+2 DATE 2000
+2 PLAC Hermitage, Davidson, Tennessee, USA
+1 SEX U
+1 NAME Timothy /Kelley/
+1 FAMC @F1@
+0 @P2@ INDI 
+1 BIRT 
+2 DATE 27 June 1972
+2 PLAC Zion, Lake, Illinois, USA
+2 SOUR @S1039027007@
+3 _APID 1,1169::4553684
+2 SOUR @S1039027009@
+3 _APID 1,1788::72856100
+2 SOUR @S1039027116@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Bartlett High School; Year: 1988
+3 _APID 1,1265::683853078
+1 RESI 
+2 DATE 1988
+2 PLAC Bartlett, Tennessee, USA
+2 SOUR @S1039027116@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Bartlett High School; Year: 1988
+3 _APID 1,1265::683853078
+1 NAME Tanya DeAnna /Shultz/
+2 SOUR @S1039027007@
+3 _APID 1,1169::4553684
+2 SOUR @S1039027009@
+3 _APID 1,1788::72856100
+2 SOUR @S1039027116@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Bartlett High School; Year: 1988
+3 _APID 1,1265::683853078
+1 RESI 
+2 DATE 1994
+2 PLAC Little Rock, AR
+2 SOUR @S1039027009@
+3 _APID 1,1788::72856100
+1 SEX F
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=8813fe73-df85-480d-9fe7-0ecdfd8c54cc&tid=163745312&pid=2
+2 FORM jpg
+2 TITL Tanya Schultz
+1 FAMC @F13@
+1 FAMS @F1@
+0 @P3@ INDI 
+1 NAME James /Kelley/
+2 SOUR @S1039027007@
+3 _APID 1,1169::617696
+2 SOUR @S1039027242@
+3 PAGE Minnesota Department of Health; Saint Paul, Minnesota; Minnesota, Birth Index, 1935-2000
+3 _APID 1,8742::320439644
+2 SOUR @S1039026961@
+3 PAGE Publication Date: 5/ Dec/ 2003; Publication Place: Somerville, Tennessee, USA; URL: http://www.fayettecountyreview.com/articles/2003/10/31/obit/obit05.txt
+3 _APID 1,7545::70708988
+1 BIRT 
+2 DATE 1969
+2 PLAC Oakland, Fayette, Tennessee, USA
+2 SOUR @S1039027007@
+3 _APID 1,1169::617696
+2 SOUR @S1039027242@
+3 PAGE Minnesota Department of Health; Saint Paul, Minnesota; Minnesota, Birth Index, 1935-2000
+3 _APID 1,8742::320439644
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F1@
+0 @P4@ INDI 
+1 NAME Gloria /Hendrix/
+2 SOUR @S1039027116@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Fayette County High School; Year: 1961
+3 _APID 1,1265::231767648
+2 SOUR @S1039027118@
+3 _APID 1,60525::52233202
+2 SOUR @S1039027287@
+3 _APID 1,1732::353877916
+1 BIRT 
+2 DATE 22 August 1945
+2 PLAC Oakland, Fayette, Tennessee, USA
+2 SOUR @S1039027116@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Fayette County High School; Year: 1961
+3 _APID 1,1265::231767648
+2 SOUR @S1039027118@
+3 _APID 1,60525::52233202
+2 SOUR @S1039027287@
+3 _APID 1,1732::353877916
+1 RESI 
+2 PLAC Oakland, TN
+2 SOUR @S1039027287@
+3 _APID 1,1732::353877916
+1 BURI 
+2 PLAC Laconia, Fayette County, Tennessee, United States of America
+2 SOUR @S1039027118@
+3 _APID 1,60525::52233202
+1 RESI 
+2 DATE 1961
+2 PLAC Somerville, Tennessee, USA
+2 SOUR @S1039027116@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Fayette County High School; Year: 1961
+3 _APID 1,1265::231767648
+1 SEX F
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=c4bfdb71-0621-41d8-8f6d-376a65264c4e&tid=163745312&pid=4
+2 FORM jpg
+2 TITL Gloria Hendrix
+1 FAMS @F2@
+0 @P5@ INDI 
+1 BIRT 
+2 DATE 5 Apr 1935
+2 PLAC Laconia Community
+2 SOUR @S1039026961@
+3 PAGE Fayette County Review; Publication Date: 5/ Dec/ 2003; Publication Place: Somerville, Tennessee, USA; URL: http://www.fayettecountyreview.com/articles/2003/10/31/obit/obit05.txt
+3 _APID 1,7545::380180
+2 SOUR @S1039027381@
+3 _APID 1,60901::22297485
+1 DEAT 
+2 DATE 2003
+2 PLAC Oakland, Fayette, Tennessee, USA
+2 SOUR @S1039026961@
+3 PAGE Fayette County Review; Publication Date: 5/ Dec/ 2003; Publication Place: Somerville, Tennessee, USA; URL: http://www.fayettecountyreview.com/articles/2003/10/31/obit/obit05.txt
+3 _APID 1,7545::380180
+2 SOUR @S1039027381@
+3 _APID 1,60901::22297485
+1 NAME James McNeil /Kelley/
+2 SOUR @S1039026961@
+3 PAGE Fayette County Review; Publication Date: 5/ Dec/ 2003; Publication Place: Somerville, Tennessee, USA; URL: http://www.fayettecountyreview.com/articles/2003/10/31/obit/obit05.txt
+3 _APID 1,7545::380180
+2 SOUR @S1039027381@
+3 _APID 1,60901::22297485
+1 RESI 
+2 PLAC Oakland
+2 SOUR @S1039026961@
+3 PAGE Fayette County Review; Publication Date: 5/ Dec/ 2003; Publication Place: Somerville, Tennessee, USA; URL: http://www.fayettecountyreview.com/articles/2003/10/31/obit/obit05.txt
+3 _APID 1,7545::380180
+1 BURI 
+2 DATE 23 Oct
+2 PLAC Laconia
+2 SOUR @S1039026961@
+3 PAGE Fayette County Review; Publication Date: 5/ Dec/ 2003; Publication Place: Somerville, Tennessee, USA; URL: http://www.fayettecountyreview.com/articles/2003/10/31/obit/obit05.txt
+3 _APID 1,7545::380180
+1 SEX M
+1 FAMC @F3@
+1 FAMS @F2@
+0 @P6@ INDI 
+1 NAME Julius Ray /Kelley/
+1 BIRT 
+2 DATE 24 Aug 1973
+2 PLAC Oakland, Fayette, Tennessee, USA
+1 SEX M
+1 FAMC @F2@
+0 @P7@ INDI 
+1 BIRT 
+2 DATE 16 January 1912
+2 PLAC Tennessee
+1 DEAT 
+2 DATE 25 January 1994
+2 PLAC Oakland, Fayette, Tennessee, USA
+1 SEX F
+1 NAME Virginia /Cowan/
+1 FAMS @F3@
+0 @P8@ INDI 
+1 BIRT 
+2 DATE 15 August 1907
+2 PLAC Laconia, Fayette, Tennessee, United States
+1 DEAT 
+2 DATE 4 February 1996
+2 PLAC Oakland, Fayette, Tennessee, USA
+1 NAME John Ray /Kelley/
+1 SEX M
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=8
+1 FAMC @F4@
+1 FAMS @F3@
+0 @P9@ INDI 
+1 BIRT 
+2 DATE Jan 14 1884
+2 PLAC Tennessee
+2 SOUR @S1040043738@
+3 PAGE Year: 1910; Census Place: Laconia, Fayette, Tennessee; Roll: T624_1498; Page: 3B; Enumeration District: 0003; FHL microfilm: 1375511
+3 _APID 1,7884::129288307
+1 RESI Marital Status: MarriedRelation to Head of House: Wife
+2 DATE 1910
+2 PLAC Laconia, Fayette, Tennessee, USA
+2 SOUR @S1040043738@
+3 PAGE Year: 1910; Census Place: Laconia, Fayette, Tennessee; Roll: T624_1498; Page: 3B; Enumeration District: 0003; FHL microfilm: 1375511
+3 _APID 1,7884::129288307
+1 NAME Anne Emma /Robbins/
+2 SOUR @S1040043738@
+3 PAGE Year: 1910; Census Place: Laconia, Fayette, Tennessee; Roll: T624_1498; Page: 3B; Enumeration District: 0003; FHL microfilm: 1375511
+3 _APID 1,7884::129288307
+1 DEAT 
+2 DATE 6 April 1960
+2 PLAC Laconia, Fayette, Tennessee
+1 SEX F
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=9
+1 FAMS @F4@
+0 @P10@ INDI 
+1 BIRT 
+2 DATE 18 March 1882
+2 PLAC Laconia, Fayette, County Tennessee
+1 DEAT 
+2 DATE 8 April 1959
+2 PLAC Fayette County, Tennessee
+1 NAME James K "Jim" /Kelley/
+1 SEX M
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=10
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=729d5cfe-21b6-4675-9f6f-0ed49607f104&tid=163745312&pid=10
+2 FORM jpg
+2 TITL Jim K and Annie R Kelley
+1 FAMC @F5@
+1 FAMS @F4@
+0 @P11@ INDI 
+1 BIRT 
+2 DATE 05 April
+2 PLAC Rogue River, Jackson, Oregon, USA
+1 SEX M
+1 NAME Art /Shultz/
+1 FAMS @F13@
+0 @P12@ INDI 
+1 BIRT 
+2 DATE 24 October 1836
+2 PLAC Hardeman County, Tennessee
+1 DEAT 
+2 DATE 28 October 1921
+2 PLAC Laconia, Fayette County, Tennessee, USA
+1 NAME Lydia Ellen (Liddy) /Taylor/
+1 SEX F
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=12
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=63a32055-f560-4d39-8c69-bdf2480cb27c&tid=163745312&pid=12
+2 FORM jpg
+2 TITL Lydia Ellen Taylor Kelley - my Great Grandmother
+1 FAMC @F6@
+1 FAMS @F5@
+0 @P13@ INDI 
+1 BIRT 
+2 DATE About 1835
+2 PLAC Northern Ireland
+2 SOUR @S1039027643@
+3 PAGE Tennessee State Library and Archives; Nashville, Tennessee; Tennessee Death Records, 1908-1958; Roll Number: 11
+3 _APID 1,2376::15997216
+1 DEAT 
+2 DATE 1899
+2 PLAC Tennessee
+1 NAME James McMichael "Mike" /Kelley/
+2 SOUR @S1039027636@
+3 PAGE Census Place: Hardeman, Hardeman, Tennessee; Archive Collection Number: T1135; Roll: Roll 2; Schedule Type: Agriculture
+3 _APID 1,1276::8542352
+2 SOUR @S1039027643@
+3 PAGE Tennessee State Library and Archives; Nashville, Tennessee; Tennessee Death Records, 1908-1958; Roll Number: 11
+3 _APID 1,2376::15997216
+1 RESI 
+2 DATE 20 Nov 1850
+2 PLAC Hardeman, Hardeman, Tennessee, USA
+2 SOUR @S1039027636@
+3 PAGE Census Place: Hardeman, Hardeman, Tennessee; Archive Collection Number: T1135; Roll: Roll 2; Schedule Type: Agriculture
+3 _APID 1,1276::8542352
+1 SEX M
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=13
+1 FAMS @F5@
+0 @P14@ INDI 
+1 BIRT 
+2 DATE 30 April 1876
+2 PLAC Hardeman County, Tennessee
+1 DEAT 
+2 DATE 9 May 1947
+2 PLAC Hardeman County, Tennessee
+1 NAME Ludelia /Kelley/
+1 SEX F
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=14
+1 FAMC @F5@
+0 @P15@ INDI 
+1 BIRT 
+2 DATE 2 August 1889
+2 PLAC Williston, Fayette County, Tennessee
+1 DEAT 
+2 DATE 9 June 1942
+2 PLAC Fayette County, Tennessee
+1 NAME Manley Isaac /Kelley/
+1 SEX M
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=15
+1 FAMC @F5@
+0 @P16@ INDI 
+1 BIRT 
+2 DATE 3 March 1885
+2 PLAC Tennessee
+1 DEAT 
+2 DATE 7 December 1944
+2 PLAC Memphis, Tennessee
+1 NAME Hurshell Somler /Kelley/
+1 SEX M
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=16
+1 FAMC @F5@
+0 @P17@ INDI 
+1 BIRT 
+2 DATE 19 September 1883
+2 PLAC Fayette County, Tennessee
+1 DEAT 
+2 DATE 20 May 1966
+2 PLAC Brownsville, Haywood County, Tennessee
+1 NAME John Hamilton /Kelly/
+1 SEX M
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=17
+1 FAMC @F5@
+0 @P18@ INDI 
+1 BIRT 
+2 DATE 27 October 1879
+2 PLAC Tennessee
+1 DEAT 
+2 DATE 8 April 1978
+2 PLAC Whiteville, Hardeman County, Tennessee
+1 NAME Mary Lee "Willie" /Kelley/
+1 SEX F
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=18
+1 FAMC @F5@
+0 @P19@ INDI 
+1 BIRT 
+2 DATE 26 December 1814
+2 PLAC County, Kentucky, USA
+1 DEAT 
+2 DATE 3 May 1856
+2 PLAC Hardeman County, Tennessee
+1 NAME Isabella J /Savage/
+1 SEX F
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=19
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=19
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=19
+1 FAMC @F14@
+1 FAMS @F6@
+0 @P20@ INDI 
+1 BIRT 
+2 DATE 29 April 1811
+2 PLAC Rowan County, North Carolina
+1 DEAT 
+2 DATE 8 April 1893
+2 PLAC Bolivar, Hardeman County, Tennessee
+1 NAME John W /Taylor/ Sr
+1 SEX M
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=20
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=aeaaaad0-51b5-4fe2-91e1-dc69ed377a21&tid=163745312&pid=20
+2 FORM jpg
+2 TITL Sale of Property
+1 FAMC @F7@
+1 FAMS @F6@
+0 @P21@ INDI 
+1 BIRT 
+2 DATE abt 1793
+2 PLAC Rowan County, North Carolina, USA
+1 DEAT 
+2 DATE After 1850
+2 PLAC Hardeman County, Tennessee
+1 SEX F
+1 NAME NANCY /Jones/
+1 FAMC @F15@
+1 FAMS @F7@
+0 @P22@ INDI 
+1 BIRT 
+2 DATE 1781
+2 PLAC Rowan County, North Carolina, USA
+1 DEAT 
+2 DATE After 1856
+2 PLAC Hardeman County, Tennessee
+1 SEX M
+1 NAME Augustus/Gustavus "Gusty" Gust /Taylor/
+1 FAMS @F7@
+0 @P23@ INDI 
+1 BIRT 
+2 DATE abt 1796
+2 PLAC Virginia, United States
+1 DEAT 
+2 DATE 1880
+2 PLAC Madison, Tennessee, United States
+1 NAME Lucy Ann /Peake/
+1 SEX F
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=23
+1 FAMS @F8@
+1 FAMS @F14@
+0 @P24@ INDI 
+1 BIRT 
+2 DATE 1 May
+2 PLAC Zion, Lake, Illinois, USA
+1 SEX M
+1 NAME Pete /Shultz/
+1 FAMC @F13@
+0 @P25@ INDI 
+1 BIRT 
+2 DATE 25 February 1969
+2 PLAC Zion, Lake, Illinois, USA
+2 SOUR @S1039027116@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Dwight D Eisenhower High School; Year: 1985
+3 _APID 1,1265::654471536
+1 RESI 
+2 DATE 1985
+2 PLAC Blue Island, Illinois, USA
+2 SOUR @S1039027116@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Dwight D Eisenhower High School; Year: 1985
+3 _APID 1,1265::654471536
+1 NAME Dan /Shultz/
+2 SOUR @S1039027116@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Dwight D Eisenhower High School; Year: 1985
+3 _APID 1,1265::654471536
+1 SEX M
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=fa216ddf-9be7-439f-a378-d2e02340da2c&tid=163745312&pid=25
+2 FORM jpg
+2 TITL Dan Schultz
+1 FAMC @F13@
+0 @P26@ INDI 
+1 BIRT 
+2 DATE 1755
+2 PLAC Maryland, United States
+1 DEAT 
+2 DATE 5 April 1804
+2 PLAC Salisbury, Rowan, North Carolina, United States
+1 NAME Solomon /Jones/ Jr. Jr.
+1 SEX M
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=26
+1 FAMC @F11@
+1 FAMS @F9@
+1 FAMS @F10@
+1 FAMS @F15@
+0 @P27@ INDI 
+1 BIRT 
+2 DATE Abt. 1777
+2 PLAC Surry Co., NC
+1 NAME William Henry /Savage/
+1 DEAT 
+2 DATE 06 Oct 1842
+2 PLAC Greenfield, Dade County, Missouri
+1 SEX M
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=27
+1 FAMS @F8@
+0 @P28@ INDI 
+1 BIRT 
+2 DATE 3 Dec 1728
+2 PLAC Middlesex, Virginia, United States
+1 DEAT 
+2 DATE 23 Dec 1786
+2 PLAC Christ Church Parish, Colony of Virginia
+1 NAME Elizabeth "Betty" /Neavill/
+1 SEX F
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=28
+1 FAMS @F11@
+0 @P29@ INDI 
+1 BIRT 
+2 DATE 1725
+2 PLAC Prince William, Virginia, United States
+1 DEAT 
+2 DATE 1775
+2 PLAC St Marys, St Mary's, Province of Maryland
+1 NAME Solomon /Jones/ Jr.
+1 SEX M
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=29
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=ff6e8cf3-0d5a-45e4-b165-ea54757ad32e&tid=163745312&pid=29
+2 FORM jpg
+2 TITL Page 1 - Compiled Service Records of Soldiers Who Served in the American Army During the Revolutionary War
+1 FAMC @F16@
+1 FAMS @F11@
+0 @P30@ INDI 
+1 BIRT 
+2 DATE 1765
+2 PLAC MD, British Colonial America
+1 DEAT 
+2 DATE 16 Oct 1827
+2 PLAC Ashe, NC, USA
+1 NAME Elizabeth /Trevitt/
+1 SEX F
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=30
+1 FAMS @F9@
+0 @P31@ INDI 
+1 BIRT 
+2 DATE 10 NOV 1745
+2 PLAC Marblehead, Essex, Massachusetts, United States
+1 DEAT 
+2 DATE 16 October 1827
+2 PLAC Watauga, Watauga County, North Carolina
+1 NAME Sarah Elizabeth /Wormstead/
+1 SEX F
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=31
+1 FAMS @F10@
+1 FAMS @F12@
+0 @P32@ INDI 
+1 BIRT 
+2 DATE abt 1741
+2 PLAC USA
+1 DEAT 
+2 DATE abt 1777 
+2 PLAC in the revolution
+1 NAME Samuel /Trivett/
+1 SEX M
+1 SOUR @S1039027129@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=163745312&pid=32
+1 FAMS @F12@
+0 @P33@ INDI 
+1 SEX M
+1 NAME Solomon /Jones/ Sr.
+1 FAMS @F16@
+0 @F1@ FAM 
+1 HUSB @P3@
+1 WIFE @P2@
+1 CHIL @P1@
+2 _FREL Unknown
+2 _MREL Natural
+1 MARR 
+2 DATE 13 Mar 1992
+2 PLAC Fayette, Tennessee, USA
+2 SOUR @S1039027007@
+3 _APID 1,1169::617696
+0 @F2@ FAM 
+1 HUSB @P5@
+1 WIFE @P4@
+1 CHIL @P3@
+2 _FREL Unknown
+2 _MREL Natural
+1 CHIL @P6@
+2 _FREL Natural
+2 _MREL Natural
+0 @F3@ FAM 
+1 HUSB @P8@
+1 WIFE @P7@
+1 CHIL @P5@
+2 _FREL Natural
+2 _MREL Natural
+0 @F4@ FAM 
+1 HUSB @P10@
+1 WIFE @P9@
+1 CHIL @P8@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 16 Jul 1899
+2 PLAC Hardeman County, Tennessee
+0 @F5@ FAM 
+1 HUSB @P13@
+1 WIFE @P12@
+1 CHIL @P14@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P18@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P10@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P17@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P16@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P15@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE April 22, 1879
+2 PLAC Hardeman County, Tennessee
+0 @F6@ FAM 
+1 HUSB @P20@
+1 WIFE @P19@
+1 CHIL @P12@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 21 May 1832
+2 PLAC Hardeman, Tennessee, United States
+0 @F7@ FAM 
+1 HUSB @P22@
+1 WIFE @P21@
+1 CHIL @P20@
+2 _FREL Natural
+2 _MREL Natural
+0 @F8@ FAM 
+1 HUSB @P27@
+1 WIFE @P23@
+1 MARR 
+2 DATE 15 Apr 1805
+2 PLAC Barren, Kentucky, USA
+1 MARR 
+2 DATE Abt. 1810
+2 PLAC Tennessee, United States
+1 MARR 
+2 DATE 1826
+2 PLAC Kentucky
+0 @F9@ FAM 
+1 HUSB @P26@
+1 WIFE @P30@
+1 MARR 
+2 DATE 1773
+2 PLAC Surry County, NC, British Colony
+0 @F10@ FAM 
+1 HUSB @P26@
+1 WIFE @P31@
+1 MARR 
+2 DATE 1773
+2 PLAC Surry Green, Durham, North Carolina, United States
+1 MARR 
+2 DATE 1770
+2 PLAC North Carolina
+0 @F11@ FAM 
+1 HUSB @P29@
+1 WIFE @P28@
+1 CHIL @P26@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1750
+2 PLAC Fauquier, Virginia, United States
+0 @F12@ FAM 
+1 HUSB @P32@
+1 WIFE @P31@
+1 MARR 
+2 DATE abt 1766
+2 PLAC Northeast USA
+0 @F13@ FAM 
+1 HUSB @P11@
+1 CHIL @P2@
+2 _FREL Natural
+1 CHIL @P24@
+2 _FREL Natural
+1 CHIL @P25@
+2 _FREL Natural
+0 @F14@ FAM 
+1 WIFE @P23@
+1 CHIL @P19@
+2 _MREL Natural
+0 @F15@ FAM 
+1 HUSB @P26@
+1 CHIL @P21@
+2 _FREL Natural
+0 @F16@ FAM 
+1 HUSB @P33@
+1 CHIL @P29@
+2 _FREL Natural
+0 @R1003778828@ REPO
+1 NAME Ancestry.com
+0 @S1039026961@ SOUR
+1 REPO @R1003778828@
+1 TITL U.S., Obituary Collection, 1930-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,7545::0
+0 @S1039027007@ SOUR
+1 REPO @R1003778828@
+1 TITL Tennessee, Marriage Records, 1780-2002
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,1169::0
+0 @S1039027009@ SOUR
+1 REPO @R1003778828@
+1 TITL U.S. Public Records Index, 1950-1993, Volume 1
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1788::0
+0 @S1039027116@ SOUR
+1 REPO @R1003778828@
+1 TITL U.S., School Yearbooks, 1900-1999
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1265::0
+0 @S1039027118@ SOUR
+1 REPO @R1003778828@
+1 TITL U.S., Find A Grave Index, 1600s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,60525::0
+0 @S1039027129@ SOUR
+1 REPO @R1003778828@
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+0 @S1039027242@ SOUR
+1 REPO @R1003778828@
+1 TITL Minnesota, Birth Index, 1935-2000
+1 AUTH Minnesota Department of Health
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,8742::0
+0 @S1039027287@ SOUR
+1 REPO @R1003778828@
+1 TITL U.S. Public Records Index, 1950-1993, Volume 2
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1732::0
+0 @S1039027381@ SOUR
+1 REPO @R1003778828@
+1 TITL U.S., Social Security Applications and Claims Index, 1936-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,60901::0
+0 @S1039027636@ SOUR
+1 REPO @R1003778828@
+1 TITL U.S., Selected Federal Census Non-Population Schedules, 1850-1880
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1276::0
+0 @S1039027643@ SOUR
+1 REPO @R1003778828@
+1 TITL Tennessee, Death Records, 1908-1958
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2376::0
+0 @S1040043738@ SOUR
+1 REPO @R1003778828@
+1 TITL 1910 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+1 _APID 1,7884::0
+0 TRLR

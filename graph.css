@@ -1,0 +1,9 @@
+node {
+    text-alignment: under;
+    size: 20px;
+    fill-color: red;
+}
+
+edge {
+    shape: cubic-curve;
+}
